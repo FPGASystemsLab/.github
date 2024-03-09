@@ -6,8 +6,8 @@ Welcome to FPGASystemsLab, a collaborative research initiative focused on develo
 
 ## Main Repositories
 
-- **[RingNet: Advanced NoC Architecture](https://github.com/FPGASystemsLab/RingNet)**: A groundbreaking network-on-chip architecture designed for optimal FPGA utilization, featuring innovative routing, switching, and data handling mechanisms.
-- **[ECO32 Microprocessor](https://github.com/FPGASystemsLab/ECO32)**: A highly efficient, RISC architecture microprocessor, custom-built for FPGA environments, supporting a diverse range of computing tasks with exceptional performance.
+- **[RingNet: Advanced NoC Architecture](https://github.com/FPGASystemsLab/src.rbus)**: A groundbreaking network-on-chip architecture designed for optimal FPGA utilization, featuring innovative routing, switching, and data handling mechanisms.
+- **[ECO32 Microprocessor](https://github.com/FPGASystemsLab/src.eco32)**: A highly efficient, RISC architecture microprocessor, custom-built for FPGA environments, supporting a diverse range of computing tasks with exceptional performance.
 
 ## Auxiliary Repositories
 
